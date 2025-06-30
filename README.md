@@ -1,16 +1,33 @@
-# todo_app
+# 📝 ToDo Web App
 
-A new Flutter project.
+A responsive and interactive **ToDo List Web App** built using **Flutter Web** and hosted on **GitHub Pages**. Users can add, edit, delete, and mark tasks as completed — with a clean, modern UI and real-time updates.
 
-## Getting Started
+## 🚀 Live Demo
 
-This project is a starting point for a Flutter application.
+👉 [Click here to try it](https://harsh56845.github.io/todo-flutter-web/)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ✅ Add new tasks
+- ✏️ Edit existing tasks using a pop-up dialog
+- ❌ Delete tasks
+- ☑️ Mark tasks as complete (checkbox)
+- 💬 SnackBar feedback messages
+- 🎨 Google Fonts & custom AppBar styling
+- ❤️ Footer credit text ("Made by Harsh")
+- 🌐 Hosted with GitHub Pages
+
+---
+
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Flutter (Web)
+- **Styling:** Material UI, Google Fonts
+- **Hosting:** GitHub Pages
+- **Language:** Dart
+
+
+
